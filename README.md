@@ -1,6 +1,7 @@
 # Api --> Bible in Arabic
+الكتاب المقدس بالعربي
 
-طريقة سهلة وبسيطة للحصول علي الايات والأصحاحات بطريقة مختصرة
+طريقة سهلة وبسيطة للحصول علي الأصحاحات و الايات بطريقة مختصرة 
 
 ## API Reference
 
@@ -107,7 +108,7 @@
 ```http
 [ GET ] https://arabic-bible.onrender.com/api/json/books
 ```
-عدد اصحاحات كل سفر/الإنجيل/رسالة
+عدد اصحاحات كل كتاب
 ```http
 [ GET ] https://arabic-bible.onrender.com/api/json/chapters
 ```
