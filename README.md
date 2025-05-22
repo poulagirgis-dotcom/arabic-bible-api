@@ -147,5 +147,5 @@ fetch("https://arabic-bible.onrender.com/api?book=1&amp;ch=1&amp;ver=5:8").then(
 
 ## Support
 
-Support or Errors, Discord [@poulagirgis](https://discord.com/users/1210002556793790514).
+Support or Errors, Telegram [@poulagirgis](https://t.me/poulagirgis).
 
